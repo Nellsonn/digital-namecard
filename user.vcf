@@ -2,11 +2,11 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Niels;van Mol;;;
-FN: van Mol Niels 
+FN: Niels van Mol 
 ORG:Dutch Embassy;
-TITLE:Tax Lawyer
-EMAIL;type=INTERNET;type=WORK;type=pref:mol.van.niels@gmail.com
-TEL;type=WORK;type=VOICE:+31624331750
+TITLE:Tax Specialist
+EMAIL;type=INTERNET;type=WORK;type=pref:niels-van.mol@minbuza.nl
+TEL;type=WORK;type=VOICE:+12027546107
 item1.ADR;type=WORK;type=pref:;; No adres
 item1.X-ABADR:
 item2.URL;type=pref:internetpage
