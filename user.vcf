@@ -3,11 +3,11 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:van Mol;Niels;;;
 FN: Niels van Mol 
-ORG:Dutch Embassy;
+ORG:Ministry of Finance;
 TITLE:Tax Specialist
-EMAIL;type=INTERNET;type=WORK;type=pref:niels-van.mol@minbuza.nl
+EMAIL;type=INTERNET;type=WORK;type=pref:n.f.m.van.mol@minfin.nl
 TEL;type=WORK;type=VOICE:+12027546107
-item1.ADR;type=WORK;type=pref:;; 4200 Linnean Ave NW, Washington DC
+item1.ADR;type=WORK;type=pref:;; Korte Voorhout 7, Den Haag
 item1.X-ABADR:
 item2.URL;type=pref:
 item2.X-ABLabel:_$!<HomePage>!$_
